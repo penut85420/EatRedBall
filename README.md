@@ -1,2 +1,5 @@
 # EatRedBall
-A tiny game created by p5.js.
+
+A simple game created by p5.js.
+
+[p5js.org](https://p5js.org/reference/)
